@@ -23,3 +23,17 @@ File DemoApplication berfungsi sebagai main class untuk menjalankan program.
 Berikut adalah tampilan terminal setelah program dijalankan.
 ![image](https://github.com/nikomangmarsyani/API-Aplikasi-E-commerce/assets/113657483/cd5f5467-a540-4bdf-b5f6-911ed97b5378)
 
+Pada aplikasi Postman, tambahkan request baru. Pertama-tama saya mencoba request GET dan menuliskan url seperti yang dapat dilihat pada gambar di bawah ini. 
+![image](https://github.com/nikomangmarsyani/API-Aplikasi-E-commerce/assets/113657483/3b342505-4ec8-4bf3-a33d-ceb8c0c31143)
+
+Setelas send request, akan muncul beberapa data seperti yang dapat dilihat pada gambar di bawah ini.
+![image](https://github.com/nikomangmarsyani/API-Aplikasi-E-commerce/assets/113657483/23a34b62-d5fc-403b-ad87-38a15d65d51b)
+
+Kemudian saya mencoba request POST dan menuliskan url seperti pada gambar di bawah ini. 
+![image](https://github.com/nikomangmarsyani/API-Aplikasi-E-commerce/assets/113657483/cd15a947-23a5-4d4b-a49c-1921d7a673cc)
+
+Selanjutnya saya mencoba request PUT dan menuliskan url seperti gambar di bawah ini.
+![image](https://github.com/nikomangmarsyani/API-Aplikasi-E-commerce/assets/113657483/16fd1341-e2d9-43a8-ad51-ae70ca6aecef)
+
+Dan terakhir saya mencoba request DELETE dan menuliskan url seperti gambar di bawah ini.
+![image](https://github.com/nikomangmarsyani/API-Aplikasi-E-commerce/assets/113657483/96c8c287-a85b-4802-8cf6-a971993dc780)
