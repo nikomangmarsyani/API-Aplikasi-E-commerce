@@ -37,3 +37,5 @@ Selanjutnya saya mencoba request PUT dan menuliskan url seperti gambar di bawah 
 
 Dan terakhir saya mencoba request DELETE dan menuliskan url seperti gambar di bawah ini.
 ![image](https://github.com/nikomangmarsyani/API-Aplikasi-E-commerce/assets/113657483/96c8c287-a85b-4802-8cf6-a971993dc780)
+
+Sekian yang dapat saya sampaikan dalam file readme ini, untuk lebih lengkap dan jelasnya dapat dilihat pada kode program yang telah ada pada main branch
